@@ -1,5 +1,4 @@
-﻿
-int TypedNumber = 0;
+﻿int TypedNumber = 0;
 bool IsValidNumber = false;
 
 Console.WriteLine("Par or Odd Number Validator");
